@@ -83,6 +83,39 @@ using BlazorMatchGame.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 27 "C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\Pages\Index.razor"
+       
+    List<string> animalEmoji = new List<string>()
+    {
+        "🐶", "🐶",
+        "🐺", "🐺",
+        "🐮", "🐮",
+        "🦊", "🦊",
+        "🐱", "🐱",
+        "🦁", "🦁",
+        "🐯", "🐯",
+        "🐹", "🐹",
+    };
+
+    List<string> shuffledAnimals = new List<string>();
+
+    protected override void OnInitialized()
+    {
+        SetUpGame();
+    }
+
+    private void SetUpGame()
+    {
+        Random random = new Random();
+        shuffledAnimals = animalEmoji
+            .OrderBy(item => random.Next())
+            .ToList();
+    }
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
