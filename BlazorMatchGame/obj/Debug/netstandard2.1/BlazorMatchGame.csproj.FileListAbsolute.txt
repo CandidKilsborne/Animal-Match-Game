@@ -2,7 +2,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\BlazorMatchGame.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\BlazorMatchGame.pdb
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorMatchGame.dll
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
@@ -60,7 +59,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorMatchGame.dll.gz
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -155,12 +153,9 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.csproj.CoreCompileInputs.cache
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.RazorComponent.input.cache
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.RazorComponent.output.cache
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\RazorDeclaration\BlazorMatchGame.dll
@@ -168,15 +163,11 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.TagHelpers.output.cache
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.RazorCoreGenerate.cache
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
@@ -233,7 +224,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\blazor\blazor.boot.json
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorMatchGame.dll.gz
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
@@ -291,7 +281,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorMatchGame.dll.br
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
@@ -355,6 +344,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.csproj.CopyComplete
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.pdb
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\NQhFMiT4qPQuBJ7oMDLXEmKSQijCDJqRShICDa-rLJk=.hash
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\WRY0HFa06qJS1WiNA0CXsVzlROixWtVwx2Cnpvbq2fk=.hash
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\9-BFN4-mIJpDYLAqoYIVYrCruxU8ZOdTjqCtxK4ORsM=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\tgrbAYmAt9qJMt5eNVjpX_QUdhj-ytI1pQTgg1cU8z0=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\VgZ5pX8Xyofkauds55j5LS2tkGrw_KfpaHT-aKengf0=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\cbBfScAK0n1NSuYnQDfUYjGPTBr9cOPADv8xEr1cKQ8=.hash
