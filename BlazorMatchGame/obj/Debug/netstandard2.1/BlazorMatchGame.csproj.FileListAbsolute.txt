@@ -355,6 +355,6 @@ C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandar
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.csproj.CopyComplete
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.dll
 C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\BlazorMatchGame.pdb
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\3G5_UUKlfe0ILEXfsnSy377eUR_6-SI5eY787iE7YqM=.hash
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\NFgSRDFxM42_BAXdWi9rBXhvUBVQ0W8dAhBLGCgV70Y=.hash
-C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\cudCbGHMTUzAunNTlMrma0p4GxegvdieOB6X-ABRe2Q=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\WRytRtp9xX_qmESVRLv_0hLyB4rzE-JMQ83SF1T-iDc=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\4cTGnIwv_gBByjCR0F7spe8d1Qu7OyDH_VSBOHDmUJo=.hash
+C:\Users\apaul\source\repos\BlazorMatchGame\BlazorMatchGame\obj\Debug\netstandard2.1\integrity\v7DC0Fr2EvZTW-eud9hxHmwUl_xE7rUQJJcGH_a8F1w=.hash
